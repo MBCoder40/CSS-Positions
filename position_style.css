@@ -1,0 +1,76 @@
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: gainsboro;
+    margin: 100px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+.red{
+    background-color: red;
+    position: relative;
+    /* top: 50px; */
+    bottom: 50px;
+    /* left: 50px; */
+    right: 100px;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
